@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\SANDIP\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\AlarmReminder.iml" filepath="C:\Users\SANDIP\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\AlarmReminder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlarmReminder-NotificationTitleSound.iml" filepath="$PROJECT_DIR$/AlarmReminder-NotificationTitleSound.iml" />
+      <module fileurl="file://C:\Users\SANDIP\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\app.iml" filepath="C:\Users\SANDIP\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\app.iml" />
+    </modules>
+  </component>
+</project>
